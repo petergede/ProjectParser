@@ -1,0 +1,2 @@
+gcc lex.yy.c parser.tab.c -o compiler.out
+./compiler.out ekfwnisi.txt
